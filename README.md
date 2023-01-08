@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div><img align="left" width = "48%" src="https://github-readme-stats-two-navy.vercel.app/api?username=soppydart&count_private=true&show_icons=true&theme=radical&hide=contribs"/>
-<img align="center" width = "41%" src="https://github-readme-stats-two-navy.vercel.app/api/top-langs/?username=soppydart&langs_count=4&show_icons=true&theme=radical&layout=compact"/></div>
+<div><img align="left" width = "48%" src="https://github-readme-stats.vercel.app/api?username=soppydart&count_private=true&show_icons=true&theme=radical&hide=contribs"/>
+<img align="center" width = "41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soppydart&langs_count=4&show_icons=true&theme=radical&layout=compact"/></div>
 
 <!--
 **soppydart/soppydart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
